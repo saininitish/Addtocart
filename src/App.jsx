@@ -1,7 +1,7 @@
 import React from "react";
 import { useSelector, useDispatch } from "react-redux";
-import ProductCard from "./ProductCard"; // Import the ProductCard component
-import "./App.css"; // Ensure your styles are included
+import ProductCard from "./ProductCard";  
+import "./App.css";  
 
 const data = {
   data: [
